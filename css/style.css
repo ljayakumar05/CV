@@ -1,0 +1,104 @@
+body{
+    overflow-x: hidden;
+    font-family: 'Montserrat', sans-serif;
+    color: #616971;
+}
+.trybutton{
+    border: 1px solid hsl(322deg 98% 66%);
+    color: hsl(322deg 98% 66%);
+    background-color: white;
+    padding: 5px 35px 5px 35px;
+    border-radius: 25px;
+}
+.topbar{
+    padding-bottom: 50px;
+}
+.title{
+    color: black;
+    font-size: 20px;
+    padding-top: 150px;
+    font-weight: 120px;
+}
+.titlefont{
+    padding-top: 50px;
+    font-weight: bold;
+}
+.title, h1, p{
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+.title, p{
+    text-align: center;
+    font-size: 25px;
+}
+.titlepra{
+    font-weight: lighter;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.textbutton{
+    text-align: center;
+    padding-top: 15px;
+}
+.texbutton{    
+    border: 1px solid hsl(322deg 98% 66%);
+    color: white;
+    background-color: hsl(322deg 98% 66%);
+    border-radius: 20px;
+    padding: 20px 80px;
+    border-radius: 60px;
+}
+.banner{
+    width: 100%;
+    height: auto;
+    padding: 20px;
+}
+.fontimage1{
+    width: 48px;
+    margin-left: 150px;
+}
+.fontimage2{
+    width: 48px;
+    margin-left: 150px;
+}
+.countnumber{
+    margin-bottom: 2rem!important;
+}
+.countnumbers{
+    padding-left: 0px;
+    font-weight: bold;
+    font-size: 80px;
+    text-align: center;
+    color: black;
+    margin-bottom: -63px;
+}
+.countmessag{
+    font-size: 20px;
+    color: hsl(206deg 3% 59%);
+    text-align: center;
+
+}
+.disktopcontent1{
+    background-color: hsl(207deg 100% 98%);
+    text-align: center;
+}
+.disktopcontent, h3{
+    padding-left: 30px;
+    text-align: left;
+    font-weight: bold;
+}
+.disktopcontent1, p{
+    text-align: left;
+    padding-left: 30px;
+}
+.disktopcontent2{
+    background-color: hsl(207deg 100% 98%);
+    object-fit: contain;
+    width: 50px;
+
+}
+.diskimg1{
+    width: 122px;
+}
